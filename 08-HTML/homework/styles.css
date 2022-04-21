@@ -1,0 +1,39 @@
+        .divClass h1{
+            color: blue;
+            text-align: center;
+        }
+        img{
+            height: 400px;
+            width: 400px;
+        }
+        #thirdDiv{
+            width: 500px;
+            height: 600px;
+            background-color: mediumspringgreen;
+            text-align: center;
+        }
+        #spanId{
+            font-size: 18px;
+        }
+        #spanId{
+            margin: 50px;
+        }
+        #thirdDiv{
+            padding: 50px;
+        }
+        #thirdDiv{
+            border-color: crimson;
+            border-style: groove;
+            border-width: 20px;
+        }
+        body{
+            height: 850px;
+            background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/fondos-de-pantalla-para-paginas-web-colores-claros.jpg);
+            background-size: cover;
+        }
+        .divClass h3{
+            text-align: center;
+        }
+        .divClass h4{
+            text-align: center;
+        }

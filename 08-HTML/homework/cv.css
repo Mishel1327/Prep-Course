@@ -1,0 +1,44 @@
+.divClass h1{
+    text-align: center;
+    color: deeppink;
+    font-size: 1.2cm;
+    border-color: darkorchid;
+    border-style: dashed;
+    border-width: 10px;
+}
+body{
+    height: 850px;
+    background-image: url(https://i.pinimg.com/originals/74/32/f7/7432f73add3882291fa7384b9c434d65.jpg);
+    background-size: cover;
+}
+img{
+    height: 400px;
+    width: 300px;
+    border-color: darkorchid;
+    border-style: groove;
+    border-width: 20px;
+}
+.divClass h2{
+    text-align: left;
+    font-size: larger;
+}
+.divClass h3{
+    text-align: left;
+    font-size: larger;
+}
+.divClass h4{
+    text-align: left;
+    font-size: larger;
+}
+#secondDiv{
+    text-align: left;
+    font-size: larger;
+}
+#fourthDiv{
+    text-align: left;
+    font-size: large;
+}
+#fifthDiv{
+    font-size: large;
+    text-align: left;
+}
